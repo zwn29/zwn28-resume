@@ -40,3 +40,8 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Preview🍃
+!['preview1'](./assets/preview-1.png)
+
+!['preview2'](./assets/preview-2.png)
